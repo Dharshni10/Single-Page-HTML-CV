@@ -26,4 +26,5 @@ HTML5
 📌 Purpose
 ```
 This project was created as part of an academic assignment to practice semantic HTML, SEO fundamentals, and web-ready document structure.
+https://github.com/Dharshni10/Single-Page-HTML-CV
 ```
